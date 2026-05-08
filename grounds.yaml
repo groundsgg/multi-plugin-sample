@@ -1,0 +1,6 @@
+name: multi-plugin-sample
+type: plugin-paper
+baseImage: paper
+plugins:
+  - :welcome
+  - :goodbye

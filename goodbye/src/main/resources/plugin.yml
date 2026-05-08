@@ -1,0 +1,6 @@
+name: GoodbyePlugin
+version: 0.1.0
+main: gg.grounds.sample.goodbye.GoodbyePlugin
+api-version: '1.21'
+description: Sends a custom quit message — part of the multi-plugin-sample bundle.
+authors: [Grounds]
