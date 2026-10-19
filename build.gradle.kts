@@ -30,5 +30,5 @@ subprojects {
 groundsPush {
     // Internal default — override with GROUNDS_API_URL when pushing
     // against a non-prod cluster.
-    apiUrl.set(providers.environmentVariable("GROUNDS_API_URL").orElse("https://platform.grnds.io"))
+    apiUrl.set(providers.environmentVariable("GROUNDS_API_URL").orElse("https://api.grounds.gg"))
 }
